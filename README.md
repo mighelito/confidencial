@@ -1,2 +1,1 @@
-# confidencial
-chaves para descriptografar os arquivos 
+LEMBRETE: A chave para descriptografar a senha é NEWJEANS
